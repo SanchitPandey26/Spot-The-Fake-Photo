@@ -1,10 +1,10 @@
-# Spot the Fake Photo — Submission
+# Spot the Fake Photo
 
 **Task:** Given a photo, decide if it is a real photo (0) or a photo of a screen (1).
 
 ---
 
-## Files in this submission
+## Files
 
 | File                 | What it is                                                      |
 |----------------------|-----------------------------------------------------------------|
